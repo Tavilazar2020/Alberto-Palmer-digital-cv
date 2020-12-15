@@ -18344,7 +18344,7 @@ var mylanguageChart = new Chart(myChart, {
   data: {
     labels: ["Inglés", "Español", "Italiano", "Francés"],
     datasets: [{
-      data: [95, 100, 70, 50],
+      data: [95, 100, 100, 50],
       backgroundColor: ["#f8f7de", "#f9813a", "#839b97", "#bedbbb"],
       borderColor: ["rgba(255, 99, 132, 1)", "rgba(54, 162, 235, 1)", "rgba(255, 206, 86, 1)", "rgba(75, 192, 192, 1)"]
     }]
